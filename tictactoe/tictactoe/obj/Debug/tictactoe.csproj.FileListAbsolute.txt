@@ -1,0 +1,8 @@
+C:\Users\furka\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\furka\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\furka\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\furka\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\furka\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
